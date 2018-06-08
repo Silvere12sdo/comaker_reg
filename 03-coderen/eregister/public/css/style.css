@@ -1,0 +1,58 @@
+.wf1{
+  background-color:#d4a029;
+}
+.wf2{
+  background-color:#074883;
+}
+.wf1_text{
+  color:#d4a029;
+}
+.wf2_text{
+  color:#074883;
+}
+
+
+.loginbox{
+  padding:25px;
+  position: absolute;
+  border-radius:5px;
+  background-color: white;
+  text-align: center;
+  margin: 0 auto;
+  width: 55%;   
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.register{
+  padding:25px;
+  position: absolute;
+  border-radius:5px;
+  background-color: white;
+  text-align: center;
+  margin: 0 auto;
+  width: 55%;   
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+.wwreset {
+padding:25px;
+  position: absolute;
+  border-radius:5px;
+  background-color: white;
+  text-align: center;
+  margin: 0 auto;
+  width: 55%;   
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+body{
+  background: url('../img/achtergrond.png'); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:white;
+}

@@ -1,0 +1,4 @@
+
+resources/views/login.blade.php
+resources/views/layouts/login.blade.php
+resources/views/register.blade.php

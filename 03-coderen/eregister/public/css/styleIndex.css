@@ -1,0 +1,43 @@
+.wf1{
+  background-color:#d4a029;
+}
+.wf2{
+  background-color:#074883;
+}
+.wf1_text{
+  color:#d4a029;
+}
+.wf2_text{
+  color:#074883;
+}
+.content{
+  background-color:white;
+  padding-left:10px;
+  padding-right:10px;
+  height:750px;
+}
+body{
+  margin:0!important;
+}
+#sidenav-overlay {
+  z-index: 1!important;
+  }
+
+footer{
+    width:100%; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+.imagepadding {
+  padding-top: 10px;
+}
+
+
+/*
+body{
+  background: url('../img/achtergrond.png'); 
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+*/
